@@ -15,6 +15,8 @@ Get the latest `WeChat screenshot.exe` from the [Releases](https://github.com/ji
 1. 确保微信已登录并运行，且截图快捷键为默认的 **Alt + A**。
 2. 双击运行 `WeChat screenshot.exe`，微信截图界面随即出现。
 
+---
+
 1. Make sure WeChat is logged in and running, with the default screenshot hotkey **Alt + A**.
 2. Double-click `WeChat screenshot.exe` and the WeChat screenshot overlay will appear.
 
